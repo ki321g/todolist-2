@@ -13,8 +13,8 @@ Member(m1):
   email: homer@simpson.com
   password: secret
   todolist:
-  - t1
-  - t2
+    - t1
+    - t2
 
 Member(m2):
   firstname: marge
@@ -22,4 +22,4 @@ Member(m2):
   email: marge@simpson.com
   password: secret
   todolist:
-  - t3
+    - t3

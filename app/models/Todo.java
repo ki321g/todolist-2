@@ -7,10 +7,10 @@ import javax.persistence.Entity;
 @Entity
 public class Todo extends Model
 {
-  public String title;
+    public String title;
 
-  public Todo(String title)
-  {
-    this.title = title;
-  }
+    public Todo(String title)
+    {
+        this.title = title;
+    }
 }
